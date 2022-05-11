@@ -10,6 +10,5 @@ I’m a Full Stack Web developer who is passionate about making error-free websi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadyjf&show_icons=true&locale=en&layout=compact" alt="mahadyjf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadyjf&show_icons=true&locale=en" alt="mahadyjf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyjf&" alt="mahadyjf" /></p>
