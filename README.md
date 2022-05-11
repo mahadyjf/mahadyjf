@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahady Jaman</h1>
-<h3 align="center">A passionate Web developer from Banglades</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 I’m a Full Stack Web developer who is passionate about making error-free websites . I have a passion for learning and sharing my knowledge with others as publicly as possible. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work  with ReactJS, JavaScript as well as PHP.
 
