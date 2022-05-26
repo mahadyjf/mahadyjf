@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahady Jaman</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-I’m a Full Stack Web developer who is passionate about making error-free websites . I have a passion for learning and sharing my knowledge with others as publicly as possible. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work  with ReactJS, JavaScript as well as PHP.
+My primary goal is to apply my technical expertise all throughout the full software life cycle to ensure production and delivery of products and services that meet client specifications. Along with a competent software developing team, and with strong personal knowledge, skills, and experience in software engineering, I am positive that this goal can be achieved. My experience as junior software developer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. I am confident that if given the opportunity, I can be a useful talent to the company.
 
 - 📫 How to reach me **mahadyjf@gmail.com**
 <hr />
